@@ -3,3 +3,9 @@
   to = "/"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/common"
+  to = "/index.html"
+  status = 200
+  force = true
