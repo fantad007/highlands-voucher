@@ -1,5 +1,17 @@
 [[redirects]]
-  from = "/khuyen-mai-highlands-uu-dai-highlands-voucher-highlands"
-  to = "/"
+  from = "/"
+  to = "/index.html"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/khuyen-mai-highlands-uu-dai-highlands-voucher-highlands"
+  to = "/index.html"
+  status = 200
+  force = true  
+
+[[redirects]]
+  from = "/khuyen-mai-ga-ran-kfc-uu-dai-ga-ran-kfc-voucher-ga-ran-kfc"
+  to = "/kfc.html"
+  status = 200
+  force = true  
